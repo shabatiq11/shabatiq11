@@ -34,6 +34,7 @@
 
 ### 🗄️ Databases & Cloud
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 ---
@@ -63,12 +64,13 @@
    * Built modules for client handling, role-based access, and task automation using ABP.io, .NET Core, and Angular.
 
 ---
-
+<!---
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shabatiq11&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabatiq11&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
+--->
 
 ---
 

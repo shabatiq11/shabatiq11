@@ -1,5 +1,5 @@
-# [cite_start]Hi there, I'm Shaban Attique 👋 [cite: 1]
-### [cite_start]Full-Stack .NET & Angular Developer [cite: 2]
+# Hi there, I'm Shaban Attique 👋
+### Full-Stack .NET, Angular, React Developer
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&width=450&lines=Building+Scalable+Microservices;.NET+Core+%26+Angular+Expert;Clean+Code+%26+Performance+Driven;Exploring+Rust+(Axum)" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 ---
 
 ## 🚀 About Me
-- [cite_start]💼 **Full-Stack Web Developer** with professional experience building enterprise-grade, data-driven web applications[cite: 5, 6].
-- [cite_start]🏗️ Specializing in **Microservices architecture**, high-performance APIs, and modular front-end interfaces[cite: 6, 7].
-- [cite_start]🛠️ Deeply invested in clean code, performance optimization, and continuously learning cutting-edge tech[cite: 7].
-- [cite_start]🦀 Currently actively exploring **Rust (Axum)**[cite: 7, 49].
+- 💼 **Full-Stack Web Developer** with professional experience building enterprise-grade, data-driven web applications.
+- 🏗️ Specializing in **Microservices architecture**, high-performance APIs, and modular front-end interfaces.
+- 🛠️ Deeply invested in clean code, performance optimization, and continuously learning cutting-edge tech.
+- 🦀 Currently actively exploring **Rust (Axum)**[cite: 7, 49].
 
 ---
 
@@ -40,27 +40,27 @@
 
 ## 💼 Featured Work Experience
 
-* **Software Engineer | [cite_start]Bilytica** (Dec 2025 - Present) [cite: 12, 13, 16]
-  * Developed an enterprise-grade Microservices architecture using ASP.NET Core, gRPC, and RabbitMQ[cite: 17].
-  * [cite_start]Maintained the high-traffic *Emdad Saudi Recruitment Platform* serving over 67,000+ users[cite: 18].
-  * [cite_start]Integrated Amazon S3 for massive-scale document and file storage handling[cite: 19].
+* **Software Engineer | Bilytica** (Dec 2025 - Present)
+  * Developed an enterprise-grade Microservices architecture using ASP.NET Core, gRPC, and RabbitMQ.
+  * Maintained the high-traffic *Emdad Saudi Recruitment Platform* serving over 67,000+ users.
+  * Integrated Amazon S3 for massive-scale document and file storage handling.
 
-* **Junior .NET Core & Angular Developer | [cite_start]IxerSoft** (Jul 2024 - Dec 2024) [cite: 21, 22, 23]
-  * Built scalable RESTful APIs using EF Core via code-first approach and modern Angular frontends[cite: 24, 25].
+* **Junior .NET Core & Angular Developer | IxerSoft** (Jul 2024 - Dec 2024) 
+  * Built scalable RESTful APIs using EF Core via code-first approach and modern Angular frontends.
 
-* **Junior .NET MVC Developer | [cite_start]ZeroDistech** (Feb 2024 - Present) [cite: 28, 29, 30]
-  * [cite_start]Integrated AI-powered Chatbots into application platforms using .NET Core 8 to enhance engagement[cite: 34].
+* **Junior .NET MVC Developer | ZeroDistech** (Feb 2024 - Present) 
+  * Integrated AI-powered Chatbots into application platforms using .NET Core 8 to enhance engagement.
 
 ---
 
 ## 📁 Highlighted Projects
 
-1. [cite_start]**Spirit of Islam** (`spiritofislam.org`) [cite: 51]
-   * Full-featured platform built independently with ASP.NET Core 8 MVC, AngularJS, SQL Server, and an AI Chatbot integration[cite: 52, 53, 54].
-2. **Arabic Business Web App** (`abdulrahmanrefrigeration.com`) [cite: 57]
-   * [cite_start]Full-stack Arabic RTL business web app built using React, Tailwind CSS, and ASP.NET Core Minimal APIs with SQL Server[cite: 58, 59].
-3. [cite_start]**CRM Software** (`oneworldimmigration.cc`) [cite: 60, 61]
-   * Built modules for client handling, role-based access, and task automation using ABP.io, .NET Core, and Angular[cite: 62, 63].
+1. **Spirit of Islam** (`spiritofislam.org`) 
+   * Full-featured platform built independently with ASP.NET Core 8 MVC, AngularJS, SQL Server, and an AI Chatbot integration.
+2. **Arabic Business Web App** (`abdulrahmanrefrigeration.com`) 
+   * Full-stack Arabic RTL business web app built using React, Tailwind CSS, and ASP.NET Core Minimal APIs with SQL Server.
+3. **CRM Software** (`oneworldimmigration.cc`) 
+   * Built modules for client handling, role-based access, and task automation using ABP.io, .NET Core, and Angular.
 
 ---
 
@@ -73,5 +73,5 @@
 ---
 
 ## 📫 Connect With Me
-* [cite_start]**Email:** shabatiq11@gmail.com [cite: 3]
-* [cite_start]**LinkedIn:** [shaban-atiq-550117355](https://linkedin.com/in/shaban-atiq-550117355) [cite: 3]
+* **Email:** shabatiq11@gmail.com, shabatiq126@gmail.com 
+* **LinkedIn:** [shaban-atiq-550117355](https://linkedin.com/in/shaban-atiq-550117355) 

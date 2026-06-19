@@ -11,7 +11,7 @@
 - 💼 **Full-Stack Web Developer** with professional experience building enterprise-grade, data-driven web applications.
 - 🏗️ Specializing in **Microservices architecture**, high-performance APIs, and modular front-end interfaces.
 - 🛠️ Deeply invested in clean code, performance optimization, and continuously learning cutting-edge tech.
-- 🦀 Currently actively exploring **Rust (Axum)**[cite: 7, 49].
+- 🦀 Currently actively exploring **Rust (Axum)**.
 
 ---
 
@@ -48,7 +48,7 @@
 * **Junior .NET Core & Angular Developer | IxerSoft** (Jul 2024 - Dec 2024) 
   * Built scalable RESTful APIs using EF Core via code-first approach and modern Angular frontends.
 
-* **Junior .NET MVC Developer | ZeroDistech** (Feb 2024 - Present) 
+* **Junior .NET MVC Developer | ZeroDistech** (Feb 2024 - Present | Remote, Part-time) 
   * Integrated AI-powered Chatbots into application platforms using .NET Core 8 to enhance engagement.
 
 ---
